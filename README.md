@@ -1,4 +1,2 @@
-# List Order AJAX/API:
-
-
-# demo-link : https://raydcode.github.io/ListOrder-AJAX-Fetch-API/
+DAY 16
+CLICK HERE FOR LIVE  https://sreeman16.github.io/List-Order-AJAX-FETCH-Handler/
